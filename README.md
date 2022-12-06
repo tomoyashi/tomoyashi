@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tomoyashi
 - 👀 I’m interested in ... japanese mafia
-- 🌱 I’m currently learning ... mathmatical calculation
+- 🌱 I’m currently learning ... mathematical calculation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
